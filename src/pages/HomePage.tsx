@@ -66,7 +66,7 @@ export default function HomePage() {
           ref={bgRef}
           className="absolute inset-0 w-full h-full"
           style={{
-            backgroundImage: 'url(/hero-memorial.jpg)',
+            backgroundImage: 'url(/1fire.jpg)',
             backgroundSize: 'cover',
             backgroundPosition: 'center',
           }}
