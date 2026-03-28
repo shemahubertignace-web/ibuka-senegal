@@ -1,7 +1,6 @@
 import { useEffect, useRef } from 'react';
 import { gsap } from 'gsap';
-import { ArrowRight, Users, Heart, BookOpen, ShieldCheck } from 'lucide-react';
-import { Link } from 'react-router-dom';
+import { Users, Heart, BookOpen, ShieldCheck } from 'lucide-react';
 import ScrollSection from '../components/ScrollSection';
 
 export default function AboutPage() {

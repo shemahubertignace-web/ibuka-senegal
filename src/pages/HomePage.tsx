@@ -77,18 +77,7 @@ export default function HomePage() {
 
         {/* Content */}
         <div className="relative z-10 flex flex-col items-center justify-center px-6 text-center w-full">
-          {/* Label / Small Intro text (Ibuka USA style) */}
-          <p className="font-mono text-xs tracking-[0.2em] text-[#A6A6AA] uppercase mb-4">
-            Bienvenue à
-          </p>
 
-          <p className="font-body text-base max-w-xl text-[#F5F5F7] mb-8 leading-relaxed">
-            Une communauté de survivants résidant au Sénégal, dédiée à honorer la mémoire du Génocide de 1994 contre les Tutsi au Rwanda, à soutenir les survivants et à plaider pour un monde sans génocide.
-          </p>
-
-          <a href="#" className="inline-block border border-accent text-accent font-mono text-xs px-6 py-2 tracking-widest uppercase mb-12 hover:bg-accent hover:text-[#0B0B0D] transition-colors duration-300">
-            Héberger kwibuka 32
-          </a>
 
           {/* Core Headline */}
           <h1
